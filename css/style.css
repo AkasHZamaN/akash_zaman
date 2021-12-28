@@ -136,9 +136,7 @@ header .follow a:hover{
     header{
         width: 100%;
     }
-    header.active{
-        left: 0%;
-    }
+    
 }
 
 
